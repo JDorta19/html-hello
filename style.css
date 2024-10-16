@@ -1,0 +1,61 @@
+.post {
+    text-align: center;
+    background-color: grey;
+    width: 500px;
+    height: 700px;
+    margin: auto;
+   
+}
+
+.Post-header {
+    
+}
+
+.imglogo {
+    width: 70px;
+
+
+}
+
+.logo {
+    display:flex;
+    border: black solid;
+    background-color: wheat;
+    
+   
+}
+
+.h2 {
+    display:flex;
+    font-style: italic;
+    
+    
+}
+
+.foto {
+    width: 500px;
+    
+
+}
+
+.imagen {
+    display: flex;
+    
+    
+    
+    
+   
+}
+
+.iconos {
+    width:30px;
+    display:flex;
+
+    
+}
+
+p {
+    border: black solid;
+    
+    
+}
