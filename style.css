@@ -8,6 +8,9 @@
 }
 
 .Post-header {
+    padding: auto;
+    
+    
     
 }
 
@@ -21,6 +24,9 @@
     display:flex;
     border: black solid;
     background-color: wheat;
+    padding: auto;
+    
+    
     
    
 }
@@ -28,6 +34,7 @@
 .h2 {
     display:flex;
     font-style: italic;
+    
     
     
 }
@@ -42,20 +49,31 @@
     display: flex;
     
     
-    
-    
-   
 }
 
 .iconos {
     width:30px;
     display:flex;
+    margin-left: 4px;
 
+    
+}
+.iconoDerecha{
+    width: 30px;
+    margin-left: 370px;
     
 }
 
 p {
     border: black solid;
     
+    
+}
+.header {
+    padding: auto;
+}
+
+.location{
+    margin-right: 100px;
     
 }
